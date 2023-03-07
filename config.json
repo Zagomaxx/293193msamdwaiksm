@@ -1,0 +1,35 @@
+{
+    "parole_bannate": ["negro", "frocio", "lesbica", "zoccola"],
+    "bot": {
+        "token": "MTA3ODcwOTA4MTU0MTQ1MTgyOA.G6oyr1.QXdwcRwF5YzElFhJRV-6_nIepP_MIotK1Bh32g",
+        "clientid": "1078709081541451828",
+        "nomebot": "Heaven Team"
+    },
+
+    "server": {
+        "idguild": "1078422872965521641",
+        "nomeserver": "Heaven - Italian Team"
+    },
+
+    "ruoli": {
+        "benvenuto": "1078423234640363590", 
+		"staff": "1078701520964554792", 
+        "staffgen": "1078701612140335176"
+    },
+
+    "stanze": {
+        "giochi": "1078425832940376114",
+        "benvenuto": "1078425491876368536",
+        "ticket": {
+            "scelta": "1078702272839688306",
+            "generale": "1078696795154157578",
+            "fazioni": "1078702621042429962",
+            "donazioni": "1078702600209309726",
+            "rimborsi": "1078702683269115985",
+            "ban": "1078702945392152646"
+        },
+        "log": {
+            "transcript": "1078704875854123059"
+        }
+    }
+}
